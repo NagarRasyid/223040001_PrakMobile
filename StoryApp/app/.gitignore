@@ -1,0 +1,3 @@
+/build
+# .gitignore
+src/main/java/com/example/storyapp/.env
